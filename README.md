@@ -6,7 +6,7 @@ Dataset
 Train_new.txt – Training dataset (labeled reviews).
 Test_new.txt – Testing dataset (unlabeled reviews).
 Format.txt – Reference file.
-Workflow
+Workflow  
 Data Preprocessing – Tokenization, stopword & punctuation removal, lowercasing.
 Feature Extraction – TF-IDF vectorization (5,000 features).
 Dimensionality Reduction – PCA (50 components).
