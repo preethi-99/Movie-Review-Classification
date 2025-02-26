@@ -54,7 +54,5 @@ This project implements a **K-Nearest Neighbors (KNN) classifier** for **movie s
 
 ---
 
-This version **ensures correct formatting** with proper **headings, bullet points, and emojis for clarity** on GitHub. 🚀  
 
-Try it now and let me know if you need any modifications! 😊
 
